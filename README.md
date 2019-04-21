@@ -9,9 +9,11 @@ These assignments test the ability to implement algorithms and further analyze t
   
  # Assignment 2
  This is the implementation of the Huffman encoding algorithm in Python using a Min-heap queue.
-   # Usage:
+   ### Usage:
+   '''
    python hmenencoder.py <input_file>
-   # Ouput:
+   '''
+   ### Ouput:
    encodedmsg.txt: Contains the encoded message.
    code.txt: Contains the codes for all the symbols.
    
