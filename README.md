@@ -3,9 +3,9 @@ This repository contains the assignments completed as a part of the coursework f
 
 # Assignment 1
 These assignments test the ability to implement algorithms and further analyze them. 
-  Stack Used:
-  The Algorithms have been implemented in Python.
-  Numpy and Matplotlib were used for the visualization of the results of these algorithms.
+  ### Stack Used:
+  * The Algorithms have been implemented in Python.
+  * Numpy and Matplotlib were used for the visualization of the results of these algorithms.
   
  # Assignment 2
  This is the implementation of the Huffman encoding algorithm in Python using a Min-heap queue.
@@ -14,7 +14,7 @@ These assignments test the ability to implement algorithms and further analyze t
    python hmenencoder.py <input_file>
    ```
    ### Ouput:
-   encodedmsg.txt: Contains the encoded message.
-   code.txt: Contains the codes for all the symbols.
+   * encodedmsg.txt: Contains the encoded message.
+   * code.txt: Contains the codes for all the symbols.
    
   
